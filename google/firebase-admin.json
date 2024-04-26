@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neovista-messanger",
+  "private_key_id": "9bc319703ccbae0c62f5230489f41b8722d37fd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCWJ0bUQ5uiEpe\ng+EDoUJvqALE/DxTv+XiO2rAA2eKXMJSXjUXsYx5ss0cWUFaBzXRANIonb20FTIM\nAY2RDXGZQiI8c5SBwpN/6V/KenH1eEEAcUHx90Ao16wE3RpKoinPAazBlxBjdJV3\na/OjjKppd7gpbTc4YcJTZpU1QBw0OgO6pOl3cn0qEjLEd6Nd3RRNYWX9i5sl49er\nl6zXSNY+KJ2h039qEApA1dnvJ0yM0sOG5OGZt+mV9x1AbcK7dmYE29pscvfjXbWa\nrRSDGgNwdxfM9dQwk6FCswrRDtDf6FYAakwXS4LLBIAUuUba/rggOzFKchDBk01T\nOrAxttctAgMBAAECggEAKJShRYVw2oKp6L9n2j6vZSozXdd/b0toIIugmDR9x8Xj\nq5hRRL/FodnEe3FltHtB8QDXYTTC2ln8p8YhPdMNT9+fz3ig31F2RCTCZECaEBQK\nmqGLkA89Pen+2MskRMZErZ1fadL10JaU6SlI5/Mk2D3v3fKYr7S2A30tlb9rxDml\nbdDff2ysG3Edat9aiOUx4iMtiXUAittQh1qnpYOeXqm3gyVwqIHDl2rBNcnYpbe4\nin95Z2L8k+iOiYq74HDdFTLjXg5AWsGUQV7DyjeGsgrz44JMojnIckTthGnqi9pn\nXJI5HIZVsYYU25l4oI4vjiZkCO7jDeZh6Lg+xn34rwKBgQDzyRidMrs3wZ2ZkrqL\n43D5e/mcR8ZT5yn0NUA3MHij78WVOYMoOW8PDM7dO6UDS44pfbJcbPSMc9fObtSS\nXOmfwV1GkTiWWTZLbqUKplL9x3Ydn2qRkxqNiosAW+sTjMKeKRweLqMUwwr5agjT\nje3rRp/0YamL26uzbSk6FJCyBwKBgQDMFWK0qxQ8h37+MfoNGbEhJOnk16rh33F0\nvW9u1sh9xCNn8r1G3mvLaXx8OmDNIX8ARGfY4h0c22MymzYR4e0/X58Ui37N/Fg0\nAYct/vMis7OdUMtbrE809hR1U3LybgV0EKHfUv2/7MwWloRCb+SLx57OvGk5cjhO\n2jujF1OQKwKBgFJk1yLaMJiJocBz7QS2nEpV8mk1gPx+lplpHgkJIt0VfswOohuI\nPdbyV0BClmTktmmjiBLg6E5IINoubz4AlR1fdy0Qi/WUtVsNTE6rJEWNkog0hwoo\nk8Le3lgCuRLkciqObmhtDsVHnn/prI4D3DO2rP0lvO3+EqwT6uksZjMlAoGAJt23\nw5KFMxXW4JAh/9axvg8qoBNWjtef4syk6SXsXs84svYuh82aF84KEBqKDubfKezd\nHhfJ1ZIObTfT70nohdYvFJmQV6hEH/tehCr2oNg6T65wXBAPsZVfxgxTasn7LeRw\n/3ftrVxqba7Sl1h53QjyPIrzOyZ+hL3Y97Fcj6sCgYEAweBwsMV7V5nMkVVxqjSK\nph5pmubPnnCZrN+f6OZyhnoovxPe6JTm9MZqR+7wBihxegwKQ3lFB0nVK1VivKgE\n0vc/hBn7KqehquTxMitL3CWuH/ak7X8rGcVrZ5yUwhgeQfeSwxayQaFanz3hVkw9\nberdVtamLhASumFrlgnIbJE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nyewq@neovista-messanger.iam.gserviceaccount.com",
+  "client_id": "112477887974286717981",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nyewq%40neovista-messanger.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
