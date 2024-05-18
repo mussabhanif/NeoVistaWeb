@@ -37,7 +37,7 @@ class NotificationController extends Controller
                     'image' => $validated['image'],
                     'url' => $validated['url'],
                     'navigation' => $validated['navigation'],
-                    'params' => $validated['params'],
+                    'params' => json_encode($validated['params']),
                 ]);
             $cloudMessaging->send($fcmMessage);
             
