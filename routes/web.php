@@ -22,6 +22,10 @@ Route::get('terms', function () {
 return Inertia::render('Terms');
 })->name('terms');
 
+Route::get('delete_account', function () {
+return Inertia::render('DeleteAccount');
+})->name('delete_account');
+
 // Route::get('/dashboard', function () {
 //     return Inertia::render('Dashboard');
 // })->middleware(['auth', 'verified'])->name('dashboard');
